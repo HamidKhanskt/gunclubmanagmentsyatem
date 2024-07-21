@@ -103,7 +103,7 @@ if __name__ == "__main__":
     club.list_inventory()
 
     # Remove a member
-    club.remove_member("John Doe")
+    club.remove_member("Hamid khan")
     club.list_members()
 
     # Removing guns from stock
